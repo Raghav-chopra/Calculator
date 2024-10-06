@@ -1,0 +1,21 @@
+.button{
+    padding: 10px;
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 50px;
+    color: white;
+    background-color: black;
+}
+.input{
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 2px;
+    font-size: 15px;
+    max-width: 160px;
+}
+.own button{
+    background-color: rgba(250, 86, 26, 0.904);
+    color: white;
+}
